@@ -1,5 +1,5 @@
 ### Hi 👋
-&nbsp; My name is Henrique, I\`m a Computer Science undergraduate at the Universidade de Brasília, passionate about challenges, and specially interested in machine learning and competitive programming. :technologist:
+&nbsp; My name is Henrique, I'm a Computer Science undergraduate at the Universidade de Brasília, passionate about challenges, and specially interested in machine learning and competitive programming. :technologist:
   
 &nbsp; "O que fizer, faça com amor" :heart:
   
